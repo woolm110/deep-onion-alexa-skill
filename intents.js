@@ -14,26 +14,20 @@
         "samples": []
       },
       {
-        "name": "GetCurrentDeepOnionVolume",
+        "name": "CurrentPrice",
         "samples": [
-          "volume",
-          "current volume",
-          "what's the current volume",
-          "what's the current deep onion volume",
-          "deep onion current volume"
+          "What's the current price of Deep Onion",
+          "Tell me the current price",
+          "Current price"
         ],
         "slots": []
       },
       {
-        "name": "GetDeepOnionCurrentPrice",
+        "name": "CurrentVolume",
         "samples": [
-          "give me current price",
-          "tell me price",
-          "tell me current deep onion price",
-          "what's the current price of deep onion",
-          "what's the price of deep onion",
-          "deep onion price",
-          "current price"
+          "What's the current volume of Deep Onion",
+          "Tell me the current volume",
+          "Current volume"
         ],
         "slots": []
       }
